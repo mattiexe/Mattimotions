@@ -1890,3 +1890,11 @@ body.modal-open {
       width: 64px;
       image-rendering: smooth;
   }
+
+  .rive {
+    width: 1080px;
+    height: 1080px;
+    margin: auto;
+    display: flex;
+    padding: 5% 0;
+}
