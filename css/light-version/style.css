@@ -1907,13 +1907,13 @@ body.modal-open {
     }
     @media (max-width:991px) {
     .rive {
-        width: 512px;
-        height: 512px;
+        width: 720px;
+        height: 720px;
         }
     }
     @media (max-width: 500px) {
     .rive {
-        width: 480px;
-        height: 480px;
+        width: 512px;
+        height: 512px;
         }
     }
