@@ -1892,9 +1892,28 @@ body.modal-open {
   }
 
   .rive {
-    width: 1080px;
-    height: 1080px;
     margin: auto;
     display: flex;
     padding: 5% 0;
+        width: 1080px;
+        height: 1080px;
 }
+
+@media (max-width:1024px) {
+    .rive {
+        width: 1080px;
+        height: 1080px;
+        }
+    }
+    @media (max-width:991px) {
+    .rive {
+        width: 512px;
+        height: 512px;
+        }
+    }
+    @media (max-width: 500px) {
+    .rive {
+        width: 280px;
+        height: 280px;
+        }
+    }
