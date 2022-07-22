@@ -1901,8 +1901,8 @@ body.modal-open {
 
 @media (max-width:1024px) {
     .rive {
-        width: 1080px;
-        height: 1080px;
+        width: 920px;
+        height: 920px;
         }
     }
     @media (max-width:991px) {
