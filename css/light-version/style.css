@@ -1854,13 +1854,19 @@ My additions
 #Kennismaking {
     padding: 80px 0;
 }
-#gallerij {
+#Waarden {
+    padding: 80px 0;
+}
+#galerij {
     padding: 80px 0;
 }
 #stappen {
     padding: 80px 0;
 }
-
+#interactief {
+    padding: 80px 0;
+}
+    
 .open-gif {
     width: 540px;
     margin: auto;
